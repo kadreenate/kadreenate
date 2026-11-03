@@ -8,3 +8,6 @@ I’m Nate, an Identity and Access Management specialist focused on zero trust, 
 - 💬 Ask me about IAM, PAM, PIM, & zero trust
 - 📫 How to reach me: kadrinate@gmail.com & kadreenate@gmail.com
 - ⚡ Fun fact: I love Barcelona 💙❤️
+
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/toluwalase-akorede-kadiri/)
