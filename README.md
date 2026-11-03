@@ -13,6 +13,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/toluwalase-akorede-kad
 
 See my writing portfolio here: 
 
--✍🏿 [Clippings](https://www.clippings.me/users/nathantechs10)
+- ✍🏿 [Clippings](https://www.clippings.me/users/nathantechs10)
 
--✍🏿 [Medium](https://kadrinate.medium.com/)
+- ✍🏿 [Medium](https://kadrinate.medium.com/)
