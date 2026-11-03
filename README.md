@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I’m Nate, an Identity and Access Management specialist focused on zero trust, privileged access management, and identity governance. My work covers Microsoft Entra ID, SSO with SAML and OAuth 2.0, conditional access, RBAC, and hybrid identity with Entra Connect. This repo collects my labs, scripts, and write-ups.
+I’m Nate, an Identity and Access Management specialist focused on zero trust, privileged access management, and identity governance. My work covers Microsoft Entra ID, SSO with SAML and OAuth 2.0, conditional access, RBAC, and hybrid identity with Entra Connect. This repo collects my labs, scripts, and write-ups.
 
 <!--
 **kadreenate/kadreenate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
