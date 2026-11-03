@@ -10,3 +10,6 @@ I’m Nate, an Identity and Access Management specialist focused on zero trust, 
 - ⚡ Fun fact: I love Barcelona 💙❤️
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/toluwalase-akorede-kadiri/)
+See my writing portfolio here: 
+[Clippings](https://www.clippings.me/users/nathantechs10)
+[Medium](https://kadrinate.medium.com/)
